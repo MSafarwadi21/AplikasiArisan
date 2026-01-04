@@ -1,17 +1,20 @@
 # AplikasiArisan
-Tugas Pemrograman II
 
-tools & etc:
-apache netbeans (IDE),
-launch4j,
-Inno setup Compiler,
-library flatlaf-3.7.jar,
-library sqlite-jdbc-3.51.1.0.jar,
-jdk23
-
-# Aplikasi Arisan
-
+Aplikasi ini dirancang untuk memenuhi Mata Kuliah Tugas Pemrograman II
 Aplikasi berbasis Java Desktop (Swing) yang dirancang untuk mengelola dan memutar undian arisan secara digital. Aplikasi ini dikembangkan menggunakan NetBeans IDE dan mendukung visualisasi undian yang interaktif.
+
+Aplikasi ini masih dalam tahap pengembangan.
+masih memiliki kekurangan dimana belum ada fitur untuk menambah username dan password secara manual oleh user, pada aplikasi ini masih menggunakan username dan password default dari developer 🙏
+
+
+#tools & etc
+1.apache netbeans (IDE)
+2.launch4j
+3.Inno setup Compiler
+4.library flatlaf-3.7.jar
+5.library sqlite-jdbc-3.51.1.0.jar
+6. jdk23
+
 
 ## ✨ Fitur Utama
 * **Manajemen Peserta:** Tambah, hapus, dan lihat daftar anggota arisan.
@@ -29,3 +32,11 @@ Anda dapat langsung mencoba aplikasi ini tanpa perlu melakukan kompilasi kode. S
 2. Jalankan installer (jika muncul peringatan *Windows Protected Your PC*, klik *More Info* > *Run Anyway*).
 3. Ikuti instruksi instalasi hingga selesai.
 
+### 🖥️ Persyaratan Sistem
+* **Sistem Operasi:** Windows 7/8/10/11.
+* **Java:** Memerlukan JRE 8 atau lebih tinggi (Jika installer Anda tidak menyertakan JRE bawaan).
+
+# Demo
+jika sudah terinstall pada PC isi
+**username** = admin
+**password** = 123
