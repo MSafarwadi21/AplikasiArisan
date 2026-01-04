@@ -7,11 +7,11 @@ Aplikasi ini masih dalam tahap pengembangan.
 masih memiliki kekurangan dimana belum ada fitur untuk menambah username dan password secara manual oleh user, pada aplikasi ini masih menggunakan username dan password default dari developer 🙏
 
 ## ⚙️ tools & etc 
-1.apache netbeans (IDE)
-2.launch4j
-3.Inno setup Compiler
-4.library flatlaf-3.7.jar
-5.library sqlite-jdbc-3.51.1.0.jar
+1. apache netbeans (IDE)
+2. launch4j
+3. Inno setup Compiler
+4. library flatlaf-3.7.jar
+5. library sqlite-jdbc-3.51.1.0.jar
 6. jdk23
 
 ## ✨ Fitur Utama
