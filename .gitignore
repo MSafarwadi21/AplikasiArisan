@@ -2,3 +2,6 @@ dist/
 build/
 nbproject/
 *.jar
+
+jre/
+jdk/
