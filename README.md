@@ -1,10 +1,10 @@
 ## AplikasiArisan
 
-Aplikasi ini dirancang untuk memenuhi Mata Kuliah Tugas Pemrograman II,
+Aplikasi ini dirancang untuk memenuhi Tugas Mata Kuliah Pemrograman II,
 Aplikasi berbasis Java Desktop (Swing) yang dirancang untuk mengelola dan memutar undian arisan secara digital. Aplikasi ini dikembangkan menggunakan NetBeans IDE dan mendukung visualisasi undian yang interaktif.
 
 Aplikasi ini masih dalam tahap pengembangan.
-masih memiliki kekurangan dimana belum ada fitur untuk menambah username dan password secara manual oleh user, pada aplikasi ini masih menggunakan username dan password default dari developer 🙏
+masih memiliki kekurangan dimana belum ada fitur untuk menambah username dan password secara manual oleh user, pada aplikasi ini masih menggunakan username dan password default dari developer 🙏, tetapi jika sudah berhasil login makan bisa mengubah username dan password
 
 ## 👥 Anggota Kelompok
 Proyek ini dikembangkan oleh Code Project:
