@@ -2,11 +2,11 @@
 Tugas Pemrograman II
 
 tools & etc:
-apache netbeans (IDE)
-launch4j
-Inno setup Compiler
-library flatlaf-3.7.jar
-library sqlite-jdbc-3.51.1.0.jar
+apache netbeans (IDE),
+launch4j,
+Inno setup Compiler,
+library flatlaf-3.7.jar,
+library sqlite-jdbc-3.51.1.0.jar,
 jdk23
 
 # Aplikasi Arisan
