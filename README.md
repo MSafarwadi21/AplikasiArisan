@@ -6,7 +6,7 @@ Aplikasi berbasis Java Desktop (Swing) yang dirancang untuk mengelola dan memuta
 Aplikasi ini masih dalam tahap pengembangan.
 masih memiliki kekurangan dimana belum ada fitur untuk menambah username dan password secara manual oleh user, pada aplikasi ini masih menggunakan username dan password default dari developer 🙏
 
-## tools & etc ⚙️
+## ⚙️ tools & etc 
 1.apache netbeans (IDE)
 2.launch4j
 3.Inno setup Compiler
@@ -34,7 +34,7 @@ Anda dapat langsung mencoba aplikasi ini tanpa perlu melakukan kompilasi kode. S
 * **Sistem Operasi:** Windows 7/8/10/11.
 * **Java:** Memerlukan JRE 8 atau lebih tinggi (Jika installer Anda tidak menyertakan JRE bawaan).
 
-# Demo
+# 💻🖱️ Demo
 jika sudah terinstall pada PC isi
 **username** = admin
 **password** = 123
