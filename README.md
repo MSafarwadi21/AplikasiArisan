@@ -6,6 +6,12 @@ Aplikasi berbasis Java Desktop (Swing) yang dirancang untuk mengelola dan memuta
 Aplikasi ini masih dalam tahap pengembangan.
 masih memiliki kekurangan dimana belum ada fitur untuk menambah username dan password secara manual oleh user, pada aplikasi ini masih menggunakan username dan password default dari developer 🙏
 
+## 👥 Anggota Kelompok
+Proyek ini dikembangkan oleh Code Project:
+* **Dede Ridwan** - [GitHub Profile](https://github.com/dede-project)
+* **Maulana Safarwadi** - [GitHub Profile](https://github.com/MSafarwadi21)
+* **Teddy Sunanto** - [GitHub Profile](https://github.com/mars2510)
+
 ## ⚙️ tools & etc 
 1. apache netbeans (IDE)
 2. launch4j
