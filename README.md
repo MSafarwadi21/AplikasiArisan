@@ -22,10 +22,10 @@ Aplikasi berbasis Java Desktop (Swing) yang dirancang untuk mengelola dan memuta
 ## 📥 Download & Instalasi
 Anda dapat langsung mencoba aplikasi ini tanpa perlu melakukan kompilasi kode. Silakan unduh installer versi terbaru pada tautan di bawah ini:
 
-[![Download Aplikasi](https://img.shields.io/badge/Download-Installer_.exe-blue?style=for-the-badge&logo=windows)](GANTI_DENGAN_LINK_DARI_RELEASE_TADI)
+[![Download Aplikasi](https://github.com/MSafarwadi21/AplikasiArisan/releases/download/v1.0.0/arisan.exe)]
 
 **Langkah Instalasi:**
-1. Unduh file `AplikasiArisanSetup.exe`.
+1. Unduh file `arisan.exe`.
 2. Jalankan installer (jika muncul peringatan *Windows Protected Your PC*, klik *More Info* > *Run Anyway*).
 3. Ikuti instruksi instalasi hingga selesai.
 
