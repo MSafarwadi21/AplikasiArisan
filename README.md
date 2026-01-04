@@ -36,5 +36,5 @@ Anda dapat langsung mencoba aplikasi ini tanpa perlu melakukan kompilasi kode. S
 
 # 💻🖱️ Demo
 jika sudah terinstall pada PC isi
-**username** = admin
+**username** = admin , 
 **password** = 123
