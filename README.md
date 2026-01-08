@@ -38,7 +38,7 @@ Anda dapat langsung mencoba aplikasi ini tanpa perlu melakukan kompilasi kode. S
 
 ### 🖥️ Persyaratan Sistem
 * **Sistem Operasi:** Windows 7/8/10/11.
-* **Java:** Memerlukan JRE 8 atau lebih tinggi (Jika installer Anda tidak menyertakan JRE bawaan).
+
 
 # 💻🖱️ Demo
 jika sudah terinstall pada PC isi
